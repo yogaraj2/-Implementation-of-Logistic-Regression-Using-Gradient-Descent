@@ -8,10 +8,11 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import all necessary packages and dataset that you need to implement Logistic Regression using Gradient Descent.
+2.Copy the actual dataset and remove fields which are unnecessary.
+3.Then select dependent variable and independent variable from the dataset.
+And perform Logistic Regression using Gradient Descent.
+4.Print accuracy value, predicted value and actual values. 
 
 ## Program:
 ```
@@ -71,11 +72,15 @@ y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
 ```
 ## Output:
-![Screenshot 2024-04-25 120238](https://github.com/yogaraj2/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/153482637/5e843f58-ae37-48a3-999e-d10cf5679886)
+
+dataset:
 
 ![Screenshot 2024-04-25 120219](https://github.com/yogaraj2/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/153482637/c4217620-3585-4a75-99dd-1075b6abb009)
+ACCURACY , predicted and actual:
 
 ![Screenshot 2024-04-25 120139](https://github.com/yogaraj2/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/153482637/1c530881-6266-41db-b8b9-47942882e547)
+
+predict result:
 
 ![Screenshot 2024-04-25 120144](https://github.com/yogaraj2/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/153482637/983a5034-a27c-48ba-bb3a-154aec113a4c)
 
